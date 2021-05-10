@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://estam-ssr-wordpress/./src/pages/nosotros.js"],"names":[],"mappings":"4JAMA,UAJA,WACE,OAAO","file":"component---src-pages-nosotros-js-a91adc7e798c1220ffed.js","sourcesContent":["import React from \"react\";\n\nfunction Partners() {\n  return <div>lol</div>;\n}\n\nexport default Partners;\n"],"sourceRoot":""}

@@ -1,0 +1,15 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/CEM.webp": "static/CEM-2e9abce1566ee21b147562a52d47d42b.webp",
+  "static/ESTAM.pdf": "static/ESTAM-e78d51d0b8fc3eb68fccb78c8221f28f.pdf",
+  "static/ESTAMINGLES.pdf": "static/ESTAMINGLES-7e38e622d24084497e9619362424258a.pdf",
+  "static/GENERATION.webp": "static/GENERATION-86b322e1444b2a72564d81ef41914196.webp",
+  "static/IMG_3544.webp": "static/IMG_3544-eb2033757defd05cee318beba4be1335.webp",
+  "static/IMG_3662.webp": "static/IMG_3662-28ba453254139873950182d9ad6cbc55.webp",
+  "static/IMG_3709.webp": "static/IMG_3709-ec3c1a778c0f0a8a7480dc40b64394b3.webp",
+  "static/MEM1.webp": "static/MEM1-2cb540d0978d21587037e69752ca62a0.webp",
+  "static/MEM2.webp": "static/MEM2-afcf32abe11cf612f96908cf3d87e6b7.webp",
+  "static/energy_generator.webp": "static/energy_generator-c9c1862d7ca5e56be153bc65b01ba444.webp",
+  "static/solar_panel.webp": "static/solar_panel-614c60dccf6d6176be90781d09c2973b.webp"
+}
